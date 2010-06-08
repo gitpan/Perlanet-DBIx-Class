@@ -22,7 +22,7 @@ Perlanet::DBIx::Class::Types - All types used by Perlanet::DBIx::Class
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 AUTHOR
 

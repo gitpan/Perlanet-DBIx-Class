@@ -6,6 +6,8 @@ Makefile.PL
 README
 dist.ini
 lib/Perlanet/DBIx/Class.pm
+lib/Perlanet/DBIx/Class/Role/FeedResultSet.pm
+lib/Perlanet/DBIx/Class/Role/PostResultSet.pm
 lib/Perlanet/DBIx/Class/Types.pm
 t/01_compile.t
 t/02_basic.t
